@@ -6,6 +6,9 @@ It was entirely made with 48 hours!
 
 To play it, you will need to use [Love2D (0.9.1)](https://love2d.org/).
 
+You can also head over to my [entry page](http://ludumdare.com/compo/ludum-dare-31/?action=preview&uid=7263)
+to check it out, and possibly get release files instead of just the source!
+
 
 ## Game play
 
