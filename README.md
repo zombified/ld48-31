@@ -22,8 +22,8 @@ destroying them with your laser cannon.
 
 ## Resources used that were not made _explicitly_ within the 48-hour timeframe:
 
-  * [Atlas V Rocket Launch](https://soundcloud.com/nasa/sets/rocket-engine-sounds) (because I thought it was neat to use a real rocket sound)
   * [herk font I made for the 28th Ludum Dare](https://github.com/zombified/ld48-24/blob/master/assets/fonts/herkld-28.png)
+    (pre-made fonts are allowed)
 
 ## A note about sound
 

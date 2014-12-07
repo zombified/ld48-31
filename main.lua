@@ -8,7 +8,7 @@ require "resource"
 function love.load()
     math.randomseed(os.time())
 
-    ENGINE_SOUND = love.audio.newSource("assets/590329main_ringtone_SDO_launchNats.mp3", "static")
+    ENGINE_SOUND = love.audio.newSource("assets/Explosion5.wav", "static")
     LASER_SOUND = love.audio.newSource("assets/Laser_Shoot16.wav", "static")
     LASER_SOUND:setLooping(false)
     EXPLOSION_SOUND = love.audio.newSource("assets/Explosion13.wav", "static")
