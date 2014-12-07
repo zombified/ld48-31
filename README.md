@@ -24,3 +24,9 @@ destroying them with your laser cannon.
 
   * [Atlas V Rocket Launch](https://soundcloud.com/nasa/sets/rocket-engine-sounds) (because I thought it was neat to use a real rocket sound)
   * [herk font I made for the 28th Ludum Dare](https://github.com/zombified/ld48-24/blob/master/assets/fonts/herkld-28.png)
+
+## A note about sound
+
+This game _does_ use sound, and does not provide anyway of disabling it, sorry!
+You'll need to mute your headphones/speakers if you wish to not hear any sounds
+while you play.
