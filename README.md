@@ -4,6 +4,9 @@ This game was made for the [31st Ludum Dare 48-Hour Game Making Jam/Compo](http:
 
 It was entirely made with 48 hours!
 
+To play it, you will need to use [Love2D (0.9.1)](https://love2d.org/).
+
+
 ## Game play
 
 The point of the game is to collect the *square* resources (redder ones are worth
